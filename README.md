@@ -11,3 +11,11 @@ Duration: 15 June 2025 – 15 July 2025
 Domain: Python Programming
 
 This repository contains the source code for **five Python-based projects**, each demonstrating different programming concepts and real-world applications. These projects highlight various aspects of Python development, such as GUI programming, file handling, data processing, and algorithmic problem-solving.
+📂 Project Tasks
+🔢 Task 1: Command-Line Calculator
+A simple yet functional calculator built using Python. Supports basic operations:
+
+Addition
+Subtraction
+Multiplication
+Division
