@@ -13,4 +13,6 @@ Duration: 15 June 2025 – 15 July 2025
 
 Domain: Python Programming
 
+📝 Submission Note
 
+This repository is submitted as part of my CodSoft Internship. All source code is original and adheres to the program’s structure and authenticity guidelines.
